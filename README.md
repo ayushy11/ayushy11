@@ -1,4 +1,4 @@
-### Hi 👋 I'm Ayush Yadav, a ReactJS developer and full-stack enthusiast.
+### Hi 👋 I'm Ayush Yadav, a ReactJS developer and Full Stack enthusiast.
 ### I’m currently a Final year BTech CSE student at IIIT Vadodara.
 
 <!--
