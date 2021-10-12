@@ -1,6 +1,5 @@
 ### Hi, I'm Ayush Yadav 👋 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-yadav-523380178/)](https://www.linkedin.com/in/ayush-yadav-523380178/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/ayushy11/)](https://github.com/ayushy11/) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushy11&label=Profile%20views&color=0e75b6&style=flat" alt="ayush" /> </p>
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-yadav-523380178/)](https://www.linkedin.com/in/ayush-yadav-523380178/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/ayushy11/)](https://github.com/ayushy11/)  <img src="https://komarev.com/ghpvc/?username=ayushy11&label=Profile%20views&color=0e75b6&style=flat" alt="ayush" /> 
 
 <img src="./icon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Logo">
 
