@@ -8,7 +8,7 @@ I'm a ReactJS developer and Full Stack enthusiast. Currently Final year B.Tech C
 
 💻 Software Developer <br>
 <!-- 📚 Studying <br> -->
-👨‍💻 Graduating in Computer Science and Engineering from [IIITV](https://iiitvadodara.ac.in/.br/)<br>
+👨‍💻 Graduating in Computer Science and Engineering from [IIITV](http://iiitvadodara.ac.in/.br/)<br>
 <!-- 🐱‍💻 I'm <br> -->
 </p>
 
