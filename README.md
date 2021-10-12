@@ -1,7 +1,7 @@
 ### Hi, I'm Ayush Yadav 👋 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-yadav-523380178/)](https://www.linkedin.com/in/ayush-yadav-523380178/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/ayushy11/)](https://github.com/ayushy11/)
 
-<img src="./icon.png" min-width="150px" max-width="150px" width="200px" align="right" alt="Logo">
+<img src="./icon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Logo">
 
 <p align="left"> 
 I'm a ReactJS developer and Full Stack enthusiast. Currently Final year B.Tech CSE student at IIIT Vadodara.<br> <br>
