@@ -7,9 +7,9 @@
 I'm a ReactJS developer and Full Stack enthusiast. Currently Final year B.Tech CSE student at IIIT Vadodara.<br> <br>
 
 💻 Software Developer <br>
-📚 Studying <br>
+<!-- 📚 Studying <br> -->
 👨‍💻 Graduating in Computer Science and Engineering from [IIITV](https://iiitvadodara.ac.in/.br/)<br>
-🐱‍💻 I'm <br>
+<!-- 🐱‍💻 I'm <br> -->
 </p>
 
 ### My skills: <br/> <br/> ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![C++](https://img.shields.io/badge/-C++-ffdd19?style=flat&logoColor=white&logo=c++)
