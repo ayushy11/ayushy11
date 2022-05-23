@@ -4,10 +4,10 @@
 <img src="./icon.png" min-width="100px" max-width="100px" width="100px" align="right" alt="Logo">
 
 <p align="left"> 
--Currently Final year B.Tech CSE student at IIIT Vadodara.<br><br>
+Final year B.Tech CSE student at IIIT Vadodara.<br><br>
 💻 Software Developer <br>
 📚 Studying Technologies<br>
-👨‍💻 Graduating in CSE from [IIITV](http://iiitvadodara.ac.in/) 22<br>
+👨‍💻 Graduating in B.Tech CSE from [IIITV](http://iiitvadodara.ac.in/)<br>
 🐱‍💻 I'm <br>
 </p>
 
