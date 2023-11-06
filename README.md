@@ -4,10 +4,10 @@
 <img src="./icon.png" min-width="100px" max-width="100px" width="100px" align="right" alt="Logo">
 
 <p align="left"> 
-Final year B.Tech CSE student at IIIT Vadodara.<br><br>
+B.Tech CSE graduate from IIIT Vadodara. Experienced with demonstrated working in Front-end libraries & frameworks like React.js, Angular, and Next.js and various JS libraries for development. Passionate about creating beautiful web apps to make people’s experiences with technology memorable.<br><br>
 💻 Software Developer <br>
 📚 Studying Technologies<br>
-👨‍💻 Graduating in B.Tech CSE from IIITV<br>
+👨‍💻 Graduated in B.Tech CSE from IIITV<br>
 🐱‍💻 Working<br>
 </p>
 
